@@ -6,4 +6,4 @@ Right now, I work at [GitHub](https://github.com/github). In the past I've contr
 
 > The universe is change; our life is what our thoughts make it. – Marcus Aurelius
 
-<a rel="me" href="https://mastodon.social/@mschoening"></a>
+<a rel="me" href="https://mastodon.social/@mschoening">Mastodon</a>
